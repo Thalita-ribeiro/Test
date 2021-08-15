@@ -4,3 +4,5 @@
 .idea/
 out/
 test.iml
+/uiDesigner.xml
+vcs.xml
